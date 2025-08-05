@@ -1,4 +1,4 @@
-# This repository is just used for issue tracking.
+# This repository is just used for issue tracking
 
 ## Account issues
 Please send me an email directly to supahsoftware@gmail.com
