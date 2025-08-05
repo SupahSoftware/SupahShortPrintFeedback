@@ -1,7 +1,4 @@
-# This repository is just used for issue tracking.
-
-## Account issues
-Please send me an email directly to supahsoftware@gmail.com
+# This repository is used for Set Requests and issue tracking
 
 ## Set Requests
 
@@ -14,3 +11,7 @@ ex `Set request: Topps 2025 Series 1`
 ## Bugs, Suggestions, other Feedback
 
 Please file an issue with a detailed description. If its a bug please include specific steps to reproduce
+
+## Account issues
+
+Please send me an email directly to supahsoftware@gmail.com
