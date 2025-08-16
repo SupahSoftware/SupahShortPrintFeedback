@@ -12,9 +12,9 @@ Include as much as you feel comfortable with, but the more you include the easie
 If I cannot reproduce I will close the issue.
 
 
-Mobile or Desktop:
-Device OS:
-Browser:
+Mobile or Desktop: 
+Device OS: 
+Browser: 
 Username: 
 
 Steps to reproduce, be as thorough as possible
