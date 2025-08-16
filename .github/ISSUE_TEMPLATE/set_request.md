@@ -2,7 +2,7 @@
 name: Set Request
 about: Request a missing set
 title: "[Set Request] BRAND YEAR SET"
-labels: set-request
+labels: enhancement
 assignees: 'SupahSoftware'
 
 ---
