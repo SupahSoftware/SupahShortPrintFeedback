@@ -1,4 +1,3 @@
-# This repository is used for Set Requests and issue tracking
 # [If you are here to request a set, search here first](https://github.com/SupahSoftware/SupahShortPrintFeedback/issues?q=is%3Aissue)
 Please do not make duplicate set requests, it will slow down development. If you see your set already requested, feel free to give it a thumbs up to bump it up further.
 
